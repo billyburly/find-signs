@@ -1,0 +1,1 @@
+This is a modified findsigns.py from minecraft overviewer. It outputs a json file that has all the signs in it. The script takes two arguments, the first is the location of the world files. The second argument is the directory to put the output file
